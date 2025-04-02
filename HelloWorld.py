@@ -1,2 +1,2 @@
 
-print("Debdeep")
+print("Deep")
